@@ -1,0 +1,13 @@
+{
+	"id" : "compteur",
+	"name" : "compteur",
+	"description" : "Plugin qui permet de récupérer les données de l'Ecocompteur Legrand",
+	"licence" : "AGPL",
+	"author" : "Mathman",
+	"require" : "3.2",
+	"category" : "energy",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"changelog" : "https://github.com/mathman/ecocompteur",
+	"documentation" : "https://github.com/mathman/ecocompteur"
+}
